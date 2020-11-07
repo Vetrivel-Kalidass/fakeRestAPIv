@@ -1,0 +1,76 @@
+{
+    "users":[
+        {
+            "username": "Vetri",
+            "mail": "vanan@gmail.com",
+            "phno": 9876405162,
+            "pwd": "107Vetri",
+            "address": "no. 31, compapp st, comps nagar, apca city-610700",
+            "carts":[1,3,4]
+        },
+        {
+            "username": "Vanan",
+            "mail": "vetri@gmail.com",
+            "phno": 9823405162,
+            "pwd": "107Vanan",
+            "address": "no. 31/2, compapp st, comps nagar, apca city-610700",
+            "carts":[3,2,4]
+        }
+    ],
+    "products":[{
+        "image": "images/Cotton solid shirt.jpg",
+        "name": "Cotton solid shirt",
+        "category": "shirt",
+        "avlSize": ["S", "M", "XL", "XXL"],
+        "avlStock": 27,
+        "description": "USPA mens shirt cotton full sleeves solid Grey slim fit",
+        "price": 630
+    },
+    {
+        "image": "images/Polyknit Track pants.jpg",
+        "name": "Polyknit Track pants",
+        "category": "tracks",
+        "avlSize": ["S", "M", "L", "XL"],
+        "avlStock": 30,
+        "description": "Solid Polyknit slim fit Track pants with 5 designs",
+        "price": 650
+    },
+    {
+        "image": "images/Cotton woven shirt.jpg",
+        "name": "Cotton woven shirt",
+        "category": "shirt",
+        "avlSize": ["S", "L", "XL", "XXL"],
+        "avlStock": 24,
+        "description": "woven printed shirt cotton full sleeves solid Maroon,green slim fit with 5 designs",
+        "price": 650
+    },
+    {
+        "image": "images/Cotton knit T-shirt.jpg",
+        "name": "Cotton knit T-shirt",
+        "category": "shirt",
+        "avlSize": ["S", "M", "XL", "XXL"],
+        "avlStock": 25,
+        "description": "cotton knit printed T-shirt half sleeves solid Black, Blue with 4 designs",
+        "price": 300
+    },
+    {
+        "image": "images/Desinger Men T-shirt.jpg",
+        "name": "Desinger Men T-shirt",
+        "category": "shirt",
+        "avlSize": ["S", "M", "L", "XL", "XXL"],
+        "avlStock": 20,
+        "description": "Pretty designer men T-shirts cotton fabric long sleeves solid",
+        "price": 280
+    },
+    {
+        "image": "images/Cotton stripped T-shirt.jpg",
+        "name": "Cotton stripped T-shirt",
+        "category": "shirt",
+        "avlSize": ["S", "M", "XXL"],
+        "avlStock": 12,
+        "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+        "price": 280
+    }
+    ],
+    "cart": []
+}
