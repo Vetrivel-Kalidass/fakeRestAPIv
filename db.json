@@ -18,6 +18,7 @@
         }
     ],
     "products":[{
+        "id": 1,
         "image": "https://images.unsplash.com/photo-1543132220-e7fef0b974e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Cotton solid shirt",
         "category": "shirt",
@@ -27,6 +28,7 @@
         "price": 630
     },
     {
+        "id": 2,
         "image": "https://images.unsplash.com/photo-1564315254352-f33b576102a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Polyknit Track pants",
         "category": "tracks",
@@ -36,6 +38,7 @@
         "price": 650
     },
     {
+        "id": 3,
         "image": "https://images.unsplash.com/photo-1582023617394-9f99138316af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Cotton woven shirt",
         "category": "shirt",
@@ -45,6 +48,7 @@
         "price": 650
     },
     {
+        "id": 4,
         "image": "https://images.unsplash.com/photo-1564859227770-c3ffd1fb1deb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Cotton knit T-shirt",
         "category": "shirt",
@@ -54,6 +58,7 @@
         "price": 300
     },
     {
+        "id": 5,
         "image": "https://images.unsplash.com/photo-1589992896544-8389e29a1c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Desinger Men T-shirt",
         "category": "shirt",
@@ -63,6 +68,7 @@
         "price": 280
     },
     {
+        "id": 6,
         "image": "https://images.unsplash.com/photo-1593467685675-5c0c123331c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "name": "Cotton stripped T-shirt",
         "category": "shirt",
