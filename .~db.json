@@ -237,11 +237,7 @@
   "carts": [
     {
       "id": 107,
-      "productId": [
-        4,
-        5,
-        2
-      ]
+      "productId": []
     },
     {
       "id": 207,
