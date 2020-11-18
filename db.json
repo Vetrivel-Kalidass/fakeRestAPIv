@@ -154,7 +154,11 @@
       "id": 10,
       "image": "https://images.unsplash.com/photo-1568151556783-f2b5999eada6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
+<<<<<<< HEAD
       "category": "casuals",
+=======
+      "category": "pant",
+>>>>>>> 03208c37ebb452c627fb38549e2b1a1b97d5a57e
       "avlSize": [
         "S",
         "M",
