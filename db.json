@@ -22,7 +22,7 @@
       "id": 1,
       "image": "https://images.unsplash.com/photo-1543132220-e7fef0b974e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton solid shirt",
-      "category": "shirt",
+      "category": "formals",
       "avlSize": [
         "S",
         "M",
@@ -37,7 +37,7 @@
       "id": 2,
       "image": "https://images.unsplash.com/photo-1564315254352-f33b576102a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Polyknit Track pants",
-      "category": "tracks",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -52,7 +52,7 @@
       "id": 3,
       "image": "https://images.unsplash.com/photo-1582023617394-9f99138316af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton woven shirt",
-      "category": "shirt",
+      "category": "formals",
       "avlSize": [
         "S",
         "L",
@@ -67,7 +67,7 @@
       "id": 4,
       "image": "https://images.unsplash.com/photo-1564859227770-c3ffd1fb1deb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton knit T-shirt",
-      "category": "shirt",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -82,7 +82,7 @@
       "id": 5,
       "image": "https://images.unsplash.com/photo-1589992896544-8389e29a1c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Desinger Men T-shirt",
-      "category": "shirt",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -98,7 +98,7 @@
       "id": 6,
       "image": "https://images.unsplash.com/photo-1593467685675-5c0c123331c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
-      "category": "shirt",
+      "category": "formals",
       "avlSize": [
         "S",
         "M",
@@ -112,7 +112,7 @@
       "id": 7,
       "image": "https://images.unsplash.com/photo-1595067327029-420d3d58688b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
-      "category": "shirt",
+      "category": "formals",
       "avlSize": [
         "S",
         "M",
@@ -126,7 +126,7 @@
       "id": 8,
       "image": "https://images.unsplash.com/photo-1581966429913-b4a4f4cf7051?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
-      "category": "shirt",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -140,7 +140,7 @@
       "id": 9,
       "image": "https://images.unsplash.com/photo-1557153939-92dd234d7bd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
-      "category": "shirt",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -154,7 +154,7 @@
       "id": 10,
       "image": "https://images.unsplash.com/photo-1568151556783-f2b5999eada6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "name": "Cotton stripped T-shirt",
-      "category": "shirt",
+      "category": "casuals",
       "avlSize": [
         "S",
         "M",
@@ -163,6 +163,61 @@
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
       "price": 280
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.pixabay.com/photo/2017/11/02/14/26/straight-looking-2911327_960_720.jpg",
+      "name": "Black pant",
+      "category": "jeans",
+      "avlSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "avlStock": 20,
+      "description": "Pretty designer men pant cotton fabric long Black solid",
+      "price": 880
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1593030846928-b641b931aaf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Blue blazer",
+      "category": "blazers",
+      "avlSize": [
+        "M",
+        "L"
+      ],
+      "avlStock": 25,
+      "description": "Blue plain men cotton fabric long solid",
+      "price": 2080
+    },
+    {
+      "id": 13,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "White T-shirt",
+      "category": "t-shirts",
+      "avlSize": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "avlStock": 10,
+      "description": "men White cotton fabric long solid T-shirt",
+      "price": 580
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1583165620031-a5dabb0c07df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Track pant",
+      "category": "tracks",
+      "avlSize": [
+        "M",
+        "L"
+      ],
+      "avlStock": 12,
+      "description": "Pretty cool men trouser cotton fabric short solid",
+      "price": 390
     }
   ],
   "carts": [
