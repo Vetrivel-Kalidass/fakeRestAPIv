@@ -15,22 +15,6 @@
       "phno": "9823405162",
       "pwd": "107Vanan",
       "address": "no. 31/2, compapp st, comps nagar, apca city-610700"
-    },
-    {
-      "id": 307,
-      "username": "tamizh",
-      "mail": "vanan@gmail.com",
-      "phno": "221-122-144",
-      "pwd": "aaaaaaaaaa",
-      "address": "sajbkjfabsjb@mai.com"
-    },
-    {
-      "id": 5,
-      "username": "ThamizhVana",
-      "mail": "vetrivel@gmail.com",
-      "phno": 4545454,
-      "pwd": "Vana!1qq",
-      "address": "ejevjvcaaaaaaaaaaaaaaaaaaaaa"
     }
   ],
   "products": [
@@ -501,59 +485,6 @@
     ]
     }
   ],
-  "resrc": [
-    {
-      "categories": [
-        {
-          "name": "blazers",
-          "image": "https://images.unsplash.com/photo-1593030846928-b641b931aaf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "formals",
-          "image": "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "t-shirts",
-          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "vacation wears",
-          "image": "https://images.unsplash.com/photo-1592961720879-a1256f7a900f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "jeans",
-          "image": "https://images.unsplash.com/photo-1593620877307-39a5895e4adc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "casuals",
-          "image": "https://images.unsplash.com/photo-1591549299905-a71d750df62d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "hats",
-          "image": "https://images.unsplash.com/photo-1560976003-d1b4b26869bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "shoes",
-          "image": "https://images.unsplash.com/photo-1559186293-d67beec88ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "sports",
-          "image": "https://images.unsplash.com/photo-1583165620031-a5dabb0c07df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "& OTHERS",
-          "image": "https://images.unsplash.com/photo-1585280987252-c81b44c5a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        }
-      ],
-      "banners": [
-        "https://cdn.pixabay.com/photo/2015/07/31/17/52/suit-869380_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/11/02/14/26/model-2911330_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/09/11/21/58/red-bow-tie-936466_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/10/11/14/32/blur-2841225_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/07/31/17/52/suit-869380_960_720.jpg"
-      ]
-    }
-  ],
   "carts": [
     {
       "id": 107,
@@ -570,27 +501,6 @@
         3,
         5,
         7
-      ]
-    },
-    {
-      "id": 307,
-      "productId": [
-        1,
-        4,
-        6,
-        8
-      ]
-    }
-  ],
-  "orders": [
-    {
-      "id": 107,
-      "products": [
-        {
-          "productId": 2,
-          "quantity": 4,
-          "size": "L"
-        }
       ]
     }
   ]
