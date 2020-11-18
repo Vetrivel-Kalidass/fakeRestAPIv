@@ -15,22 +15,6 @@
       "phno": "9823405162",
       "pwd": "107Vanan",
       "address": "no. 31/2, compapp st, comps nagar, apca city-610700"
-    },
-    {
-      "id": 307,
-      "username": "tamizh",
-      "mail": "vanan@gmail.com",
-      "phno": "221-122-144",
-      "pwd": "aaaaaaaaaa",
-      "address": "sajbkjfabsjb@mai.com"
-    },
-    {
-      "id": 5,
-      "username": "ThamizhVana",
-      "mail": "vetrivel@gmail.com",
-      "phno": 4545454,
-      "pwd": "Vana!1qq",
-      "address": "ejevjvcaaaaaaaaaaaaaaaaaaaaa"
     }
   ],
   "products": [
@@ -570,27 +554,6 @@
         3,
         5,
         7
-      ]
-    },
-    {
-      "id": 307,
-      "productId": [
-        1,
-        4,
-        6,
-        8
-      ]
-    }
-  ],
-  "orders": [
-    {
-      "id": 107,
-      "products": [
-        {
-          "productId": 2,
-          "quantity": 4,
-          "size": "L"
-        }
       ]
     }
   ]
