@@ -1,0 +1,597 @@
+{
+  "users": [
+    {
+      "id": 107,
+      "username": "Vetri",
+      "mail": "vanan@gmail.com",
+      "phno": "9876405162",
+      "pwd": "107Vetri",
+      "address": "no. 31, compapp st, comps nagar, apca city-610700"
+    },
+    {
+      "id": 207,
+      "username": "Vanan",
+      "mail": "vetri@gmail.com",
+      "phno": "9823405162",
+      "pwd": "107Vanan",
+      "address": "no. 31/2, compapp st, comps nagar, apca city-610700"
+    },
+    {
+      "id": 307,
+      "username": "tamizh",
+      "mail": "vanan@gmail.com",
+      "phno": "221-122-144",
+      "pwd": "aaaaaaaaaa",
+      "address": "sajbkjfabsjb@mai.com"
+    },
+    {
+      "id": 5,
+      "username": "ThamizhVana",
+      "mail": "vetrivel@gmail.com",
+      "phno": 4545454,
+      "pwd": "Vana!1qq",
+      "address": "ejevjvcaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1543132220-e7fef0b974e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton solid shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "avlStock": 27,
+      "description": "USPA mens shirt cotton full sleeves solid Grey slim fit",
+      "price": 630,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1564315254352-f33b576102a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Polyknit Track pants",
+      "category": "tracks",
+      "avlSize": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "avlStock": 30,
+      "description": "Solid Polyknit slim fit Track pants with 5 designs",
+      "price": 650,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1582023617394-9f99138316af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton woven shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "avlStock": 24,
+      "description": "woven printed shirt cotton full sleeves solid Maroon,green slim fit with 5 designs",
+      "price": 650,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1564859227770-c3ffd1fb1deb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton knit T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "avlStock": 25,
+      "description": "cotton knit printed T-shirt half sleeves solid Black, Blue with 4 designs",
+      "price": 300,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1589992896544-8389e29a1c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Desinger Men T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "avlStock": 20,
+      "description": "Pretty designer men T-shirts cotton fabric long sleeves solid",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1593467685675-5c0c123331c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton stripped T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "avlStock": 12,
+      "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1595067327029-420d3d58688b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton stripped T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "avlStock": 12,
+      "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1581966429913-b4a4f4cf7051?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton stripped T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "avlStock": 12,
+      "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1557153939-92dd234d7bd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton stripped T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "avlStock": 12,
+      "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1568151556783-f2b5999eada6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Cotton stripped T-shirt",
+      "category": "shirt",
+      "avlSize": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "avlStock": 12,
+      "description": "sotton stripped/color block T-shirts round neck with 3 designs",
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
+    }
+  ],
+  "resrc": [
+    {
+      "categories": [
+        {
+          "name": "blazers",
+          "image": "https://images.unsplash.com/photo-1593030846928-b641b931aaf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "formals",
+          "image": "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "t-shirts",
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "vacation wears",
+          "image": "https://images.unsplash.com/photo-1592961720879-a1256f7a900f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "jeans",
+          "image": "https://images.unsplash.com/photo-1593620877307-39a5895e4adc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "casuals",
+          "image": "https://images.unsplash.com/photo-1591549299905-a71d750df62d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "hats",
+          "image": "https://images.unsplash.com/photo-1560976003-d1b4b26869bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "shoes",
+          "image": "https://images.unsplash.com/photo-1559186293-d67beec88ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "sports",
+          "image": "https://images.unsplash.com/photo-1583165620031-a5dabb0c07df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "name": "& OTHERS",
+          "image": "https://images.unsplash.com/photo-1585280987252-c81b44c5a954?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+      ],
+      "banners": [
+        "https://cdn.pixabay.com/photo/2015/07/31/17/52/suit-869380_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/11/02/14/26/model-2911330_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/11/21/58/red-bow-tie-936466_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/10/11/14/32/blur-2841225_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/07/31/17/52/suit-869380_960_720.jpg"
+      ]
+    }
+  ],
+  "carts": [
+    {
+      "id": 107,
+      "productId": [
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": 207,
+      "productId": [
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 307,
+      "productId": [
+        1,
+        4,
+        6,
+        8
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": 107,
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 4,
+          "size": "L"
+        }
+      ]
+    }
+  ]
+}
