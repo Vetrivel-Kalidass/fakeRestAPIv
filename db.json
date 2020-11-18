@@ -47,7 +47,39 @@
       ],
       "avlStock": 27,
       "description": "USPA mens shirt cotton full sleeves solid Grey slim fit",
-      "price": 630
+      "price": 630,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 2,
@@ -62,7 +94,39 @@
       ],
       "avlStock": 30,
       "description": "Solid Polyknit slim fit Track pants with 5 designs",
-      "price": 650
+      "price": 650,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 3,
@@ -77,7 +141,39 @@
       ],
       "avlStock": 24,
       "description": "woven printed shirt cotton full sleeves solid Maroon,green slim fit with 5 designs",
-      "price": 650
+      "price": 650,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 4,
@@ -92,7 +188,39 @@
       ],
       "avlStock": 25,
       "description": "cotton knit printed T-shirt half sleeves solid Black, Blue with 4 designs",
-      "price": 300
+      "price": 300,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 5,
@@ -108,7 +236,39 @@
       ],
       "avlStock": 20,
       "description": "Pretty designer men T-shirts cotton fabric long sleeves solid",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 6,
@@ -122,7 +282,39 @@
       ],
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 7,
@@ -136,7 +328,39 @@
       ],
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 8,
@@ -150,7 +374,39 @@
       ],
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 9,
@@ -164,7 +420,39 @@
       ],
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     },
     {
       "id": 10,
@@ -178,7 +466,39 @@
       ],
       "avlStock": 12,
       "description": "sotton stripped/color block T-shirts round neck with 3 designs",
-      "price": 280
+      "price": 280,
+      "comments": [
+        {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my father-in-law!",
+            "author": "Paul McVites",
+            "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+            "rating": 3,
+            "comment": "classy one, just bought it!",
+            "author": "Michael Jaikishan",
+            "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2011-12-02T17:57:28.556094Z"
+        }
+    ]
     }
   ],
   "resrc": [
